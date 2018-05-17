@@ -3,7 +3,7 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
-      "serviceCode": "StrayDog",
+      "serviceCode": "StrayDog123",
       "keywords": "dog,animal",
       "department": "NA",
       "slaHours": 12,
